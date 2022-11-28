@@ -23,7 +23,7 @@
   </a>
 
   <a href="https://linkedin.com/in/url-de-linkedin" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[url-de-linkedin](https://www.linkedin.com/in/alejandro-jim%C3%A9nez-murciano-430090206/)" height="30" width="40" />
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alejandro-jim%C3%A9nez-murciano-430090206/" height="30" width="40" />
   </a>
 </p>
 
