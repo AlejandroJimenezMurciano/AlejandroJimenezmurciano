@@ -1,4 +1,4 @@
-![Imagen decorativa de tu perfil](file:///Users/alumno/Downloads/alejandrojimenezmurciano.jpeg)
+![Imagen decorativa de tu perfil](https://github.com/AlejandroJimenezMurciano/Portfolio/blob/main/dist/assets/images/alejandrojimenezmurciano.jpeg)
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hola 👋, Soy ALEJANDRO</h1>
