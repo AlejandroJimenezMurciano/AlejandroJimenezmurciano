@@ -22,7 +22,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="url-de-devto" height="30" width="40" />
   </a>
 
-  <a href="https://www.linkedin.com/in/alejandro-jim%C3%A9nez-murciano-430090206/" target="blank">
+  <a href="https://www.linkedin.com/in/alejandro-jimenez-murciano/" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="url de linkedin" height="30" width="40" />
   </a>
 </p>
